@@ -1,3 +1,3 @@
 # Beginner-Projects
-These are my Initial Projects
-Trying to change something.
+These are my Initial Projects.
+Author - Ali Hamza
